@@ -35,6 +35,11 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </div>
 
+### Inteligência Artificial e ChatBots
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="Instagram" />
+</div>
+
 ## 🔗 Redes Sociais
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
@@ -42,3 +47,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </div>
 
+## ✉️ Contato
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" />
+</div>
